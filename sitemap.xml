@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/authors/</loc>
+    <loc>https://mauricio-araujoo.github.io/portfolio/authors/</loc>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://mauricio-araujoo.github.io/portfolio/categories/</loc>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://mauricio-araujoo.github.io/portfolio/</loc>
   </url><url>
-    <loc>https://example.org/series/</loc>
+    <loc>https://mauricio-araujoo.github.io/portfolio/series/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://mauricio-araujoo.github.io/portfolio/tags/</loc>
   </url>
 </urlset>
