@@ -2,10 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mauricio F. Araujo</title>
-    <link>https://mauricio-araujoo.github.io/portfolio/</link>
+    <link>http://localhost:32845/portfolio/</link>
     <description>Recent content on Mauricio F. Araujo</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <atom:link href="https://mauricio-araujoo.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:32845/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contato</title>
+      <link>http://localhost:32845/portfolio/contato/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:32845/portfolio/contato/</guid>
+      <description>&lt;p&gt;Se você tem um problema técnico que precisa sair do lugar, me envie uma descrição curta pelo LinkedIn.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/mauricio-araujoo/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/maur%C3%ADcio-ferreira-06562625b&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;o-que-enviar&#34;&gt;&#xA;  O que enviar&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#o-que-enviar&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link para o cabeçalho&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link para o cabeçalho&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Para eu entender rápido o contexto, inclua:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Qual problema você quer resolver.&lt;/li&gt;&#xA;&lt;li&gt;Qual sistema, stack ou ferramenta está usando.&lt;/li&gt;&#xA;&lt;li&gt;O que já existe hoje.&lt;/li&gt;&#xA;&lt;li&gt;Qual erro, log, tela ou comportamento motivou o contato.&lt;/li&gt;&#xA;&lt;li&gt;Se há repositório, ambiente, print ou trecho de log para analisar.&lt;/li&gt;&#xA;&lt;li&gt;Qual prazo ou impacto esperado.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Com isso, eu retorno com uma proposta de escopo inicial: pequena, verificável e focada no primeiro resultado útil.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Metodologia</title>
+      <link>http://localhost:32845/portfolio/metodologia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:32845/portfolio/metodologia/</guid>
+      <description>&lt;p&gt;Minha metodologia para projetos vendidos por cold email é simples: encontrar um problema provável, abrir uma conversa específica e propor uma entrega pequena o suficiente para ser validada rápido.&lt;/p&gt;&#xA;&lt;p&gt;O portfólio serve como prova técnica depois do primeiro contato. Cada projeto mostra que eu já lidei com problemas parecidos: sistemas internos, integração, hardware, performance, infraestrutura ou debug.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-diagnóstico-do-problema&#34;&gt;&#xA;  1. Diagnóstico do problema&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#1-diagn%c3%b3stico-do-problema&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link para o cabeçalho&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link para o cabeçalho&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;O primeiro passo é entender qual problema realmente precisa ser resolvido.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projetos</title>
+      <link>http://localhost:32845/portfolio/projetos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:32845/portfolio/projetos/</guid>
+      <description>&lt;p&gt;Esta página reúne projetos e experiências técnicas que mostram como eu resolvo problemas de software em diferentes camadas: backend, sistemas embarcados, performance, infraestrutura e debug.&lt;/p&gt;&#xA;&lt;h2 id=&#34;aplicação-web-full-stack-com-spring-boot-thymeleaf-e-stripe&#34;&gt;&#xA;  Aplicação web full-stack com Spring Boot, Thymeleaf e Stripe&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#aplica%c3%a7%c3%a3o-web-full-stack-com-spring-boot-thymeleaf-e-stripe&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link para o cabeçalho&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link para o cabeçalho&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tipo:&lt;/strong&gt; Experiência profissional parcialmente confirmada&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Problema:&lt;/strong&gt; Evoluir e manter uma aplicação web com funcionalidades administrativas, regras de negócio, templates, fornecedores, lotes, relatórios e integração de pagamento.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Serviços</title>
+      <link>http://localhost:32845/portfolio/servicos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:32845/portfolio/servicos/</guid>
+      <description>&lt;p&gt;Eu vendo projetos técnicos pequenos e objetivos, com escopo claro, validação prática e documentação suficiente para o cliente continuar evoluindo o sistema. A ideia não é começar prometendo uma plataforma enorme; é resolver um problema real primeiro.&lt;/p&gt;&#xA;&lt;h2 id=&#34;desenvolvimento-web-e-sistemas-internos&#34;&gt;&#xA;  Desenvolvimento web e sistemas internos&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#desenvolvimento-web-e-sistemas-internos&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link para o cabeçalho&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link para o cabeçalho&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Construo e mantenho funcionalidades para sistemas internos, painéis administrativos e aplicações web com backend Java.&lt;/p&gt;&#xA;&lt;p&gt;Posso ajudar com:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sobre</title>
+      <link>http://localhost:32845/portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:32845/portfolio/about/</guid>
+      <description>&lt;p&gt;Sou estudante de Engenharia de Software na Universidade de Brasília e trabalho com software em camadas diferentes do problema: aplicações web, backend, integração com hardware, performance em C++ e ambientes de infraestrutura local.&lt;/p&gt;&#xA;&lt;p&gt;Meu foco é construir e depurar sistemas de ponta a ponta. Isso inclui entender o fluxo de negócio, implementar a solução, investigar logs e erros, medir gargalos e entregar um caminho claro para o próximo passo técnico.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
