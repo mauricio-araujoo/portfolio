@@ -29,30 +29,7 @@
  &lt;span class="sr-only"&gt;Link para o cabeçalho&lt;/span&gt;
  &lt;/a&gt;
 &lt;/h2&gt;
-&lt;p&gt;A operação precisava apresentar muita informação sem perder clareza: situação dos casos, próximos prazos, movimentações processuais, responsabilidades da equipe e solicitações recebidas pelo site.&lt;/p&gt;</description></item><item><title>Aplicação web com Spring Boot e Stripe</title><link>https://mauricio-araujoo.github.io/portfolio/projetos/spring-stripe/</link><pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate><guid>https://mauricio-araujoo.github.io/portfolio/projetos/spring-stripe/</guid><description>&lt;h2 id="contexto"&gt;
- Contexto
- &lt;a class="heading-link" href="#contexto"&gt;
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"&gt;&lt;/i&gt;
- &lt;span class="sr-only"&gt;Link para o cabeçalho&lt;/span&gt;
- &lt;/a&gt;
-&lt;/h2&gt;
-&lt;p&gt;Projeto ligado a uma experiência profissional parcialmente confirmada, envolvendo manutenção e evolução de uma aplicação web administrativa.&lt;/p&gt;
-&lt;h2 id="problema"&gt;
- Problema
- &lt;a class="heading-link" href="#problema"&gt;
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"&gt;&lt;/i&gt;
- &lt;span class="sr-only"&gt;Link para o cabeçalho&lt;/span&gt;
- &lt;/a&gt;
-&lt;/h2&gt;
-&lt;p&gt;A aplicação precisava evoluir funcionalidades internas, regras de negócio, templates, fornecedores, lotes, relatórios e integração de pagamento.&lt;/p&gt;
-&lt;h2 id="minha-atuação"&gt;
- Minha atuação
- &lt;a class="heading-link" href="#minha-atua%c3%a7%c3%a3o"&gt;
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"&gt;&lt;/i&gt;
- &lt;span class="sr-only"&gt;Link para o cabeçalho&lt;/span&gt;
- &lt;/a&gt;
-&lt;/h2&gt;
-&lt;p&gt;Atuei no desenvolvimento e ajuste de páginas com Spring Boot e Thymeleaf, modais, filtros, paginação, regras de exclusão, geração de relatório PDF e integração com Stripe.&lt;/p&gt;</description></item><item><title>Observabilidade em Kubernetes com Prometheus e Grafana</title><link>https://mauricio-araujoo.github.io/portfolio/projetos/kubernetes-observabilidade/</link><pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate><guid>https://mauricio-araujoo.github.io/portfolio/projetos/kubernetes-observabilidade/</guid><description>&lt;h2 id="contexto"&gt;
+&lt;p&gt;A operação precisava apresentar muita informação sem perder clareza: situação dos casos, próximos prazos, movimentações processuais, responsabilidades da equipe e solicitações recebidas pelo site.&lt;/p&gt;</description></item><item><title>Observabilidade em Kubernetes com Prometheus e Grafana</title><link>https://mauricio-araujoo.github.io/portfolio/projetos/kubernetes-observabilidade/</link><pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate><guid>https://mauricio-araujoo.github.io/portfolio/projetos/kubernetes-observabilidade/</guid><description>&lt;h2 id="contexto"&gt;
  Contexto
  &lt;a class="heading-link" href="#contexto"&gt;
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"&gt;&lt;/i&gt;
@@ -137,30 +114,7 @@
  &lt;span class="sr-only"&gt;Link para o cabeçalho&lt;/span&gt;
  &lt;/a&gt;
 &lt;/h2&gt;
-&lt;p&gt;O código precisava ser adaptado para CUDA, lidando com diferenças entre paralelismo em CPU e GPU, layout de dados, sincronização e ambiente de execução.&lt;/p&gt;</description></item><item><title>Debug de sensores, motores e firmware com ESP32</title><link>https://mauricio-araujoo.github.io/portfolio/projetos/esp32-debug/</link><pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate><guid>https://mauricio-araujoo.github.io/portfolio/projetos/esp32-debug/</guid><description>&lt;h2 id="contexto"&gt;
- Contexto
- &lt;a class="heading-link" href="#contexto"&gt;
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"&gt;&lt;/i&gt;
- &lt;span class="sr-only"&gt;Link para o cabeçalho&lt;/span&gt;
- &lt;/a&gt;
-&lt;/h2&gt;
-&lt;p&gt;Estudos práticos e debugging técnico em bancada com ESP32, sensores, motores, alimentação e firmware.&lt;/p&gt;
-&lt;h2 id="problema"&gt;
- Problema
- &lt;a class="heading-link" href="#problema"&gt;
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"&gt;&lt;/i&gt;
- &lt;span class="sr-only"&gt;Link para o cabeçalho&lt;/span&gt;
- &lt;/a&gt;
-&lt;/h2&gt;
-&lt;p&gt;O trabalho envolvia configurar e depurar componentes eletrônicos e firmware, onde a causa de uma falha poderia estar no código, no build, na ligação física, no sensor ou na alimentação.&lt;/p&gt;
-&lt;h2 id="minha-atuação"&gt;
- Minha atuação
- &lt;a class="heading-link" href="#minha-atua%c3%a7%c3%a3o"&gt;
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"&gt;&lt;/i&gt;
- &lt;span class="sr-only"&gt;Link para o cabeçalho&lt;/span&gt;
- &lt;/a&gt;
-&lt;/h2&gt;
-&lt;p&gt;Usei scanner I2C, flash e monitor via &lt;code&gt;idf.py&lt;/code&gt;, investiguei sensores ToF, leitura de INA219, alimentação, controle de PWM com LEDC, motor DC com encoder, driver TB6612FNG e ligações com buck converters, bateria LiPo e GND comum.&lt;/p&gt;</description></item><item><title>Contato</title><link>https://mauricio-araujoo.github.io/portfolio/contato/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mauricio-araujoo.github.io/portfolio/contato/</guid><description>&lt;p&gt;Se você tem um sistema, integração, automação ou processo técnico travado, envie uma descrição curta do problema e do prazo desejado.&lt;/p&gt;
+&lt;p&gt;O código precisava ser adaptado para CUDA, lidando com diferenças entre paralelismo em CPU e GPU, layout de dados, sincronização e ambiente de execução.&lt;/p&gt;</description></item><item><title>Contato</title><link>https://mauricio-araujoo.github.io/portfolio/contato/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mauricio-araujoo.github.io/portfolio/contato/</guid><description>&lt;p&gt;Se você tem um sistema, integração, automação ou processo técnico travado, envie uma descrição curta do problema e do prazo desejado.&lt;/p&gt;
 &lt;p&gt;Não precisa enviar uma especificação completa. Explique o problema atual, o que deveria acontecer e o prazo desejado.&lt;/p&gt;
 &lt;h2 id="opções-de-contato"&gt;
  Opções de contato
