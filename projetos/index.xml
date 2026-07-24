@@ -105,6 +105,21 @@
  &lt;/a&gt;
 &lt;/h2&gt;
 &lt;p&gt;Estudo aplicado de computação paralela e desempenho em uma simulação científica originalmente executada em CPU.&lt;/p&gt;
+
+
+
+
+
+
+ 
+ &lt;figure class="project-figure"&gt;
+ &lt;img src="https://mauricio-araujoo.github.io/portfolio/projetos/cuda-simulacao/espaco-de-fase_hu_3cd1c684aface132.webp" width="1200" height="701" alt="Gráfico do espaço de fase da simulação com posição no eixo horizontal e velocidade no eixo vertical" loading="lazy"&gt;
+ 
+ &lt;figcaption&gt;Espaço de fase no frame 283, mostrando a distribuição das partículas por posição e velocidade.&lt;/figcaption&gt;
+ 
+ &lt;/figure&gt;
+
+
 &lt;h2 id="problema"&gt;
  Problema
  &lt;a class="heading-link" href="#problema"&gt;
@@ -112,15 +127,7 @@
  &lt;span class="sr-only"&gt;Link para o cabeçalho&lt;/span&gt;
  &lt;/a&gt;
 &lt;/h2&gt;
-&lt;p&gt;O código precisava ser adaptado para CUDA, lidando com diferenças entre paralelismo em CPU e GPU, layout de dados, sincronização e ambiente de execução.&lt;/p&gt;
-&lt;h2 id="minha-atuação"&gt;
- Minha atuação
- &lt;a class="heading-link" href="#minha-atua%c3%a7%c3%a3o"&gt;
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"&gt;&lt;/i&gt;
- &lt;span class="sr-only"&gt;Link para o cabeçalho&lt;/span&gt;
- &lt;/a&gt;
-&lt;/h2&gt;
-&lt;p&gt;Criei kernels CUDA, substituí loops OpenMP, troquei estruturas baseadas em &lt;code&gt;std::vector&lt;/code&gt; por ponteiros na GPU e usei &lt;code&gt;cudaMalloc&lt;/code&gt;, &lt;code&gt;cudaFree&lt;/code&gt;, &lt;code&gt;cudaDeviceSynchronize&lt;/code&gt; e &lt;code&gt;atomicAdd&lt;/code&gt;.&lt;/p&gt;</description></item><item><title>Debug de sensores, motores e firmware com ESP32</title><link>https://mauricio-araujoo.github.io/portfolio/projetos/esp32-debug/</link><pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate><guid>https://mauricio-araujoo.github.io/portfolio/projetos/esp32-debug/</guid><description>&lt;h2 id="contexto"&gt;
+&lt;p&gt;O código precisava ser adaptado para CUDA, lidando com diferenças entre paralelismo em CPU e GPU, layout de dados, sincronização e ambiente de execução.&lt;/p&gt;</description></item><item><title>Debug de sensores, motores e firmware com ESP32</title><link>https://mauricio-araujoo.github.io/portfolio/projetos/esp32-debug/</link><pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate><guid>https://mauricio-araujoo.github.io/portfolio/projetos/esp32-debug/</guid><description>&lt;h2 id="contexto"&gt;
  Contexto
  &lt;a class="heading-link" href="#contexto"&gt;
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"&gt;&lt;/i&gt;
