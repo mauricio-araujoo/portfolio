@@ -12,6 +12,7 @@
 
 
 
+
  
  &lt;figure class="project-figure"&gt;
  &lt;img src="https://mauricio-araujoo.github.io/portfolio/projetos/plataforma-gestao-juridica/dashboard_hu_f02e591495c98fb5.webp" width="1200" height="586" alt="Dashboard da plataforma jurídica com indicadores, casos favoritos e atividade recente" loading="lazy"&gt;
@@ -111,9 +112,10 @@
 
 
 
+
  
  &lt;figure class="project-figure"&gt;
- &lt;img src="https://mauricio-araujoo.github.io/portfolio/projetos/cuda-simulacao/espaco-de-fase_hu_3cd1c684aface132.webp" width="1200" height="701" alt="Gráfico do espaço de fase da simulação com posição no eixo horizontal e velocidade no eixo vertical" loading="lazy"&gt;
+ &lt;img src="https://mauricio-araujoo.github.io/portfolio/projetos/cuda-simulacao/espaco-de-fase_hu_3cd1c684aface132.webp" width="1200" height="701" alt="Gráfico do espaço de fase da simulação com posição no eixo horizontal e velocidade no eixo vertical" loading="eager"&gt;
  
  &lt;figcaption&gt;Espaço de fase no frame 283, mostrando a distribuição das partículas por posição e velocidade.&lt;/figcaption&gt;
  
