@@ -83,6 +83,22 @@
  &lt;/a&gt;
 &lt;/h2&gt;
 &lt;p&gt;Projeto acadêmico com integração entre software, hardware e comunicação local para controle de cruzamentos.&lt;/p&gt;
+
+
+
+
+
+
+
+ 
+ &lt;figure class="project-figure"&gt;
+ &lt;img src="https://mauricio-araujoo.github.io/portfolio/projetos/sistema-controle-trafego/painel-controle-transito_hu_8f3acd4805cddfff.webp" width="1200" height="592" alt="Painel de simulação do sistema de trânsito com dois cruzamentos, veículos, semáforos, controles e sensores de velocidade" loading="eager"&gt;
+ 
+ &lt;figcaption&gt;Demonstração do controle de dois cruzamentos, com fluxo de veículos, estados dos semáforos, sensores e comandos operacionais.&lt;/figcaption&gt;
+ 
+ &lt;/figure&gt;
+
+
 &lt;h2 id="problema"&gt;
  Problema
  &lt;a class="heading-link" href="#problema"&gt;
@@ -90,15 +106,7 @@
  &lt;span class="sr-only"&gt;Link para o cabeçalho&lt;/span&gt;
  &lt;/a&gt;
 &lt;/h2&gt;
-&lt;p&gt;O sistema precisava controlar semáforos, ler botões de pedestre e coordenar comunicação entre componentes físicos e processos distribuídos.&lt;/p&gt;
-&lt;h2 id="minha-atuação"&gt;
- Minha atuação
- &lt;a class="heading-link" href="#minha-atua%c3%a7%c3%a3o"&gt;
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"&gt;&lt;/i&gt;
- &lt;span class="sr-only"&gt;Link para o cabeçalho&lt;/span&gt;
- &lt;/a&gt;
-&lt;/h2&gt;
-&lt;p&gt;Implementei controle de semáforos, leitura de botões, debounce, execução concorrente com threads, comunicação UART, protocolo simplificado, wrapper MODBUS modificado e reestruturação para arquitetura com processo central e processos distribuídos.&lt;/p&gt;</description></item><item><title>Simulação C++/OpenMP adaptada para CUDA</title><link>https://mauricio-araujoo.github.io/portfolio/projetos/cuda-simulacao/</link><pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate><guid>https://mauricio-araujoo.github.io/portfolio/projetos/cuda-simulacao/</guid><description>&lt;h2 id="contexto"&gt;
+&lt;p&gt;O sistema precisava controlar semáforos, ler botões de pedestre e coordenar comunicação entre componentes físicos e processos distribuídos.&lt;/p&gt;</description></item><item><title>Simulação C++/OpenMP adaptada para CUDA</title><link>https://mauricio-araujoo.github.io/portfolio/projetos/cuda-simulacao/</link><pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate><guid>https://mauricio-araujoo.github.io/portfolio/projetos/cuda-simulacao/</guid><description>&lt;h2 id="contexto"&gt;
  Contexto
  &lt;a class="heading-link" href="#contexto"&gt;
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"&gt;&lt;/i&gt;
