@@ -1,0 +1,15 @@
+{
+  "name": "Mauricio F. Araujo",
+  "short_name": "Mauricio Araujo",
+  "start_url": "/portfolio/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/portfolio/images/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mauricio F. Araujo | Backend, Automação e Infraestrutura on Mauricio F. Araujo</title><link>https://mauricio-araujoo.github.io/portfolio/</link><description>Recent content in Mauricio F. Araujo | Backend, Automação e Infraestrutura on Mauricio F. Araujo</description><generator>Hugo</generator><language>pt-br</language><lastBuildDate>Thu, 23 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://mauricio-araujoo.github.io/portfolio/index.xml" rel="self" type="application/rss+xml"/><item><title>Plataforma web de gestão jurídica</title><link>https://mauricio-araujoo.github.io/portfolio/projetos/plataforma-gestao-juridica/</link><pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate><guid>https://mauricio-araujoo.github.io/portfolio/projetos/plataforma-gestao-juridica/</guid><description>&lt;h2 id="contexto"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projetos on Mauricio F. Araujo</title><link>https://mauricio-araujoo.github.io/portfolio/projetos/</link><description>Recent content in Projetos on Mauricio F. Araujo</description><generator>Hugo</generator><language>pt-br</language><lastBuildDate>Thu, 23 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://mauricio-araujoo.github.io/portfolio/projetos/index.xml" rel="self" type="application/rss+xml"/><item><title>Plataforma web de gestão jurídica</title><link>https://mauricio-araujoo.github.io/portfolio/projetos/plataforma-gestao-juridica/</link><pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate><guid>https://mauricio-araujoo.github.io/portfolio/projetos/plataforma-gestao-juridica/</guid><description>&lt;h2 id="contexto"&gt;
  Contexto
  &lt;a class="heading-link" href="#contexto"&gt;
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"&gt;&lt;/i&gt;
@@ -143,71 +143,4 @@
  &lt;span class="sr-only"&gt;Link para o cabeçalho&lt;/span&gt;
  &lt;/a&gt;
 &lt;/h2&gt;
-&lt;p&gt;Usei scanner I2C, flash e monitor via &lt;code&gt;idf.py&lt;/code&gt;, investiguei sensores ToF, leitura de INA219, alimentação, controle de PWM com LEDC, motor DC com encoder, driver TB6612FNG e ligações com buck converters, bateria LiPo e GND comum.&lt;/p&gt;</description></item><item><title>Contato</title><link>https://mauricio-araujoo.github.io/portfolio/contato/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mauricio-araujoo.github.io/portfolio/contato/</guid><description>&lt;p&gt;Se você tem um sistema, integração, automação ou processo técnico travado, envie uma descrição curta do problema e do prazo desejado.&lt;/p&gt;
-&lt;p&gt;Não precisa enviar uma especificação completa. Explique o problema atual, o que deveria acontecer e o prazo desejado.&lt;/p&gt;
-&lt;h2 id="opções-de-contato"&gt;
- Opções de contato
- &lt;a class="heading-link" href="#op%c3%a7%c3%b5es-de-contato"&gt;
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"&gt;&lt;/i&gt;
- &lt;span class="sr-only"&gt;Link para o cabeçalho&lt;/span&gt;
- &lt;/a&gt;
-&lt;/h2&gt;
-&lt;div class="contact-layout"&gt;
- &lt;aside class="contact-methods" aria-label="Canais de contato"&gt;
- &lt;div class="contact-method"&gt;
- &lt;h3&gt;E-mail&lt;/h3&gt;
- &lt;p&gt;Use o e-mail como canal principal para enviar contexto técnico e arquivos de apoio.&lt;/p&gt;</description></item><item><title>Processo de trabalho</title><link>https://mauricio-araujoo.github.io/portfolio/metodologia/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mauricio-araujoo.github.io/portfolio/metodologia/</guid><description>&lt;h2 id="1-diagnóstico"&gt;
- 1. Diagnóstico
- &lt;a class="heading-link" href="#1-diagn%c3%b3stico"&gt;
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"&gt;&lt;/i&gt;
- &lt;span class="sr-only"&gt;Link para o cabeçalho&lt;/span&gt;
- &lt;/a&gt;
-&lt;/h2&gt;
-&lt;p&gt;Entendo o comportamento esperado, o estado atual e o impacto do problema. Quando necessário, reproduzo a falha antes de propor uma solução.&lt;/p&gt;
-&lt;h2 id="2-definição-do-escopo"&gt;
- 2. Definição do escopo
- &lt;a class="heading-link" href="#2-defini%c3%a7%c3%a3o-do-escopo"&gt;
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"&gt;&lt;/i&gt;
- &lt;span class="sr-only"&gt;Link para o cabeçalho&lt;/span&gt;
- &lt;/a&gt;
-&lt;/h2&gt;
-&lt;p&gt;Transformo o problema em uma entrega pequena, verificável e com limites claros. Também registro entradas necessárias, riscos técnicos e critérios de validação.&lt;/p&gt;</description></item><item><title>Serviços</title><link>https://mauricio-araujoo.github.io/portfolio/servicos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mauricio-araujoo.github.io/portfolio/servicos/</guid><description>&lt;p&gt;Trabalho com entregas técnicas pequenas e objetivas, sempre com escopo claro, validação prática e documentação suficiente para o cliente continuar evoluindo o sistema.&lt;/p&gt;
-&lt;h2 id="backend-e-sistemas-internos"&gt;
- Backend e sistemas internos
- &lt;a class="heading-link" href="#backend-e-sistemas-internos"&gt;
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"&gt;&lt;/i&gt;
- &lt;span class="sr-only"&gt;Link para o cabeçalho&lt;/span&gt;
- &lt;/a&gt;
-&lt;/h2&gt;
-&lt;p&gt;Construção e evolução de funcionalidades para aplicações web, sistemas administrativos e fluxos internos.&lt;/p&gt;
-&lt;p&gt;Entregas possíveis:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;APIs.&lt;/li&gt;
-&lt;li&gt;Painéis administrativos.&lt;/li&gt;
-&lt;li&gt;CRUDs.&lt;/li&gt;
-&lt;li&gt;Filtros e paginação.&lt;/li&gt;
-&lt;li&gt;Autenticação.&lt;/li&gt;
-&lt;li&gt;Regras de negócio.&lt;/li&gt;
-&lt;li&gt;Relatórios PDF.&lt;/li&gt;
-&lt;li&gt;Integrações com serviços externos.&lt;/li&gt;
-&lt;li&gt;Webhooks.&lt;/li&gt;
-&lt;li&gt;Correção e evolução de sistemas Spring Boot.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Indicado para:&lt;/strong&gt; empresas que possuem processos internos em planilhas, aplicações incompletas ou sistemas que precisam de novas funcionalidades.&lt;/p&gt;</description></item><item><title>Sobre</title><link>https://mauricio-araujoo.github.io/portfolio/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://mauricio-araujoo.github.io/portfolio/about/</guid><description>&lt;p&gt;&lt;img src="https://github.com/mauricio-araujoo.png" alt="Foto de Mauricio F. Araujo"&gt;&lt;/p&gt;
-&lt;h2 id="apresentação"&gt;
- Apresentação
- &lt;a class="heading-link" href="#apresenta%c3%a7%c3%a3o"&gt;
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"&gt;&lt;/i&gt;
- &lt;span class="sr-only"&gt;Link para o cabeçalho&lt;/span&gt;
- &lt;/a&gt;
-&lt;/h2&gt;
-&lt;p&gt;Sou estudante de Engenharia de Software na Universidade de Brasília, com experiência prática em desenvolvimento backend, sistemas distribuídos, infraestrutura e programação de baixo nível.&lt;/p&gt;
-&lt;p&gt;Atuo a partir do Brasil e tenho disponibilidade para projetos remotos.&lt;/p&gt;
-&lt;h2 id="como-trabalho"&gt;
- Como trabalho
- &lt;a class="heading-link" href="#como-trabalho"&gt;
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link para o cabeçalho"&gt;&lt;/i&gt;
- &lt;span class="sr-only"&gt;Link para o cabeçalho&lt;/span&gt;
- &lt;/a&gt;
-&lt;/h2&gt;
-&lt;p&gt;Gosto de investigar problemas de ponta a ponta: entender o comportamento esperado, reproduzir falhas, implementar uma solução e documentar o resultado.&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;Usei scanner I2C, flash e monitor via &lt;code&gt;idf.py&lt;/code&gt;, investiguei sensores ToF, leitura de INA219, alimentação, controle de PWM com LEDC, motor DC com encoder, driver TB6612FNG e ligações com buck converters, bateria LiPo e GND comum.&lt;/p&gt;</description></item></channel></rss>
